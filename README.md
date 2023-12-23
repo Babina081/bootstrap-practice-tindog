@@ -1,4 +1,8 @@
 # bootstrap-practice-tindog
 
-I have learnt about bootstrap and its functionality to style the HTML contents.
-bootstrap is a framework that has prebuilt css by different users that reduces the time to code and simplify the website development.
+This is a simple website called tindog that I created.
+I created this website by only using Bootstrap.
+What I learnt:
+1) Different functionality of bootstrap
+2) Use bootstrap cdn to link with the html file
+3) Use the prebuilt example bootstrap in the development of any website
